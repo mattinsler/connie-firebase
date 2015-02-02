@@ -1,0 +1,32 @@
+{
+  "name": "connie-firebase",
+  "description": "Firebase storage for connie",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mattinsler/connie-firebase",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattinsler/connie-firebase.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mattinsler/connie-firebase/issues"
+  },
+  "main": "lib/connie-firebase",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {
+    "firebase": "^2.1.2",
+    "q": "1.1.2"
+  },
+  "devDependencies": {
+    "connie": "0.0.1",
+    "mocha": "2.1.0",
+    "mocha-jshint": "0.0.9"
+  },
+  "keywords": [
+    "connie"
+  ]
+}
