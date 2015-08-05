@@ -1,7 +1,7 @@
 {
   "name": "connie-firebase",
   "description": "Firebase storage for connie",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "homepage": "https://github.com/mattinsler/connie-firebase",
   "repository": {
     "type": "git",
@@ -18,9 +18,9 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "betturl": "^0.2.3",
-    "q": "^1.2.0",
-    "superagent": "^1.1.0"
+    "betturl": "0.2.3",
+    "q": "1.2.0",
+    "superagent": "1.1.0"
   },
   "devDependencies": {
     "connie": "0.0.1",
